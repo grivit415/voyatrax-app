@@ -44,11 +44,3 @@ Voyatrax adalah aplikasi pemesanan tiket pesawat berbasis web yang dibangun deng
 ├── utils
 └── ...
 ```
-
-## Kontribusi
-
-Kontribusi sangat terbuka! Silakan buat pull request atau buka issue jika menemukan bug atau ingin menambah fitur.
-
-## Lisensi
-
-MIT License © 2024 ferryops
