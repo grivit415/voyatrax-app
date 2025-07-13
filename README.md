@@ -1,7 +1,5 @@
 # Voyatrax ✈️
 
-![Tickets](https://raw.githubusercontent.com/ferryops/VOYATRAX/refs/heads/main/public/assets/Screenshot%202025-07-13%20at%2007.58.59.png)
-
 Voyatrax adalah aplikasi pemesanan tiket pesawat berbasis web yang dibangun dengan **Next.js**, **Tailwind CSS**, dan **Supabase**. Aplikasi ini menyediakan fitur pemesanan tiket bagi pengguna, serta dashboard khusus untuk admin.
 
 ## Fitur Utama
@@ -26,39 +24,6 @@ Voyatrax adalah aplikasi pemesanan tiket pesawat berbasis web yang dibangun deng
 - [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework untuk styling.
 - [Supabase](https://supabase.com/) — Backend sebagai layanan (auth, database, dan storage).
 
-## Instalasi & Menjalankan Project
-
-1. **Clone repositori ini**
-
-   ```bash
-   git clone https://github.com/username/voyatrax.git
-   cd voyatrax
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   # atau
-   yarn install
-   ```
-
-3. **Atur environment variables**
-
-   - Buat file `.env.local` berdasarkan contoh `.env.example`
-   - Isi konfigurasi Supabase (URL, Key, dsb)
-
-4. **Jalankan aplikasi**
-
-   ```bash
-   npm run dev
-   # atau
-   yarn dev
-   ```
-
-5. **Akses aplikasi**
-
-   - Buka [http://localhost:3000](http://localhost:3000)
 
 ## Struktur Folder
 
